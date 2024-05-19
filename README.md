@@ -65,7 +65,7 @@ Skills: Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 ## Best Repo -
 
-[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abdur5649)
+[![Java Projects](https://github-readme-stats.vercel.app/api/pin/?username=Abdur5649&repo=Java-Project&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Abdur5649)
 [![100+ C Problems](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=100_plus_C_Problems&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
 https://github.com/Abdur5649
 [![Front End Projects](https://github-readme-stats.vercel.app/api/pin/?username=harun181&repo=front_end_projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]
@@ -84,7 +84,7 @@ https://github.com/Abdur5649
 ## Github Stats -
 
 <p align="center">
-  <a href="https://github.com/harun181">
+  <a href="https://github.com/Abdur5649">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harun181&theme=radical" alt="Harun's GitHub Contribution"/>
   </a>
 </p>
@@ -105,7 +105,7 @@ https://github.com/Abdur5649
 
 <div align="center">
 <br/>
-<a href="https://twitter.com/tutul181" target="_blank">
+<a href="https://twitter.com/Abdur5649" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px; margin-right: 2px;" />
 </a>
 <a href="https://www.linkedin.com/in/harun181/" target="_blank">
